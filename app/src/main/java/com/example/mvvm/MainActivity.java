@@ -1,10 +1,10 @@
-package com.example.desafio10;
+package com.example.mvvm;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.example.desafio10.view.MainFragment;
+import com.example.mvvm.view.MainFragment;
 
 public class MainActivity extends AppCompatActivity {
 
